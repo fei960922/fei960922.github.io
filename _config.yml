@@ -1,0 +1,12 @@
+# Site settings
+title: Personal Blog of Jerry Xu
+email: fei960922@gmail.com
+description: "Hello World! "
+baseurl: "http://fei960922.github.io"
+url: "https://yfxu.me"
+renren_username: fei960922
+github_username:  fei960922
+
+# Build settings
+markdown: kramdown
+permalink: none
